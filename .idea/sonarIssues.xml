@@ -1,0 +1,2895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Algorithm.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/DynamicProgramming.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Facebook_Combination.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/FindingPath.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/FunWithBInaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/FunWithBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MainTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MergeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/OFXTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/RadixSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SDETest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SampleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/String_Array.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/linked/linked_list/MyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/linked_list/LinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/linked_list/MyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/marathon_1/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/path.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorting/HeapSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorting/MergeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorting/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorting/RadixSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorting/Sorting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/top_coder/TCP16_0412.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/tree/BinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/tree/FunWithBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/tree/Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/Campaign Numbers.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/sql/BUILD_SCORE_CARD.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/sql/SP_CLOSE_EXPIRED_CALLS.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/async/BackgroundExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/controllers/ConfigurationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/controllers/InboundCallController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/controllers/ReportController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/controllers/ScreenPopActionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/controllers/ScreenPopController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/CallCenterEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/CallbackRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/Facility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/InboundCall.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/IvrResponseWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/Patient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/PatientImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/PhoneNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/domain/schedule/Task.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/repo/FacilityRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/repo/JdbcRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/repo/MongoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/repo/MongoRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/scheduler/AcquireTaskJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/scheduler/CTIScheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/scheduler/NewScheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallLogService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallLogServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallbackService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CallbackServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CommunicationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/CommunicationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/ConfigurationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/ScheduleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/ScheduleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/service/WebRequestServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/util/DateTimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/util/HttpUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/java/com/smilebrands/callcentersupport/util/VelocityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/resources/spring-jdbc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/resources/spring-mongo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/resources/spring-services.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/ctx/spring-mvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/jetty-web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/agentCallList.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/agentCallLogList.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/callVolumeReport.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/csr-screen-pop.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/longScreenPopReport.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/phoneNumberEdit.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/psr-screen-pop.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/secure.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/tool-screen-pop.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/views/wr-screen-pop.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/script/configurationActions.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/script/reportActions.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/script/sbi-script.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/main/webapp/script/screenPopActions.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/AgentCallServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/CallLogGenerationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/ConfigurationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/ConversionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/MongoRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/PatientImageTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/SchedulerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/java/com/smilebrands/callcentersupport/WebRequestTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/src/test/resources/test-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/validate_appt_on21-Mar-2016.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/validate_appt_on_18-Mar-2016.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CallCenterSupport/validate_appt_on_19-Mar-2016.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/EdmundsServices.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/controller/CarCheckController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/model/CarCheck.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/model/CarStyle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/model/CarSubModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/service/CarCheckService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/service/CarCheckServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/java/util/Converter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/resources/app.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/resources/spring-mvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/resources/spring-service-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/WEB-INF/ctx/spring-mvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/WEB-INF/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/WEB-INF/views/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/script/carCheck.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/main/webapp/style/custom.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/test/java/CarCheckTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EdmundsServices/src/test/resources/spring-mvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ImageTransferProtocol/src/main/java/com/smilebrands/itp/central/util/AmazonS3Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/Daily Revenue for Regions.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/dao/OrthoDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/dao/WorkDaysDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/dao/mapper/PatientTransactionRowExtractor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/document/DataCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/document/UserPreference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/PatientTransaction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Budget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Business.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Collection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ConsolidatedCollection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ConsolidatedRevenue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/FacilityOpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/OpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ProviderOpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Revenue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/impl/DataCacheDocumentRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/repo/jdbc/OpsDashboardRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/repo/jdbc/impl/OpsDashboardRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/java/com/smilebrands/util/DateTimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/resources/spring-jdbc-ops-dash-queries.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/main/resources/velocity/daily-report-email.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/java/com/smilebrands/MetricsDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/java/com/smilebrands/OpsDashboardDaosTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/java/com/smilebrands/UserPreferenceRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/resources/mongo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-data/src/test/resources/ops-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/AbstractBaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/ExportController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/MetricsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/OpsDashController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/UserPreferenceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/appspec.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/scripts/before_install.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/scripts/configure_service.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/scripts/start_servers.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/scripts/stop_servers.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/code-deploy/scripts/verify_service.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/dev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/resources/prod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/controller/DashboardController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/controller/MobileDashboardController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/controller/OverrideController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/controller/PatientTransactionController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/controller/UserPreferenceController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/model/opsdashboard/OpsDashboardRecord.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/override/AbstractSummary.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/override/SummaryFeature.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/override/Table.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/util/Config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/util/TemplateFactory.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/util/Utilities.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/ColumnFilterWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/DashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/DateRangeSelectionWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/ExportTemplateWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/OpsDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/OrthoDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/gridview/ProviderOpsDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/schedule/CalendarPanel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/widgets/DashboardGridContextMenu.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/widgets/MobileConfigPanel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/widgets/TransactionGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/widgets/TransactionSummaryView.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/app/view/widgets/TransactionView.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/ext-5.1.0/build/ext-all-debug.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/resources/css/buttons.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/resources/css/container.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/resources/css/extjs-extensions.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/resources/css/theme.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/dashboard-web/src/main/webapp/resources/data/metric-definitions.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../OperationsDashboard/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/build.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/main/java/com/smilebrands/communication/data/dao/AppointmentsDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/main/java/com/smilebrands/communication/data/dao/impl/AppointmentsDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/main/java/com/smilebrands/communication/data/dao/impl/EventDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/main/java/com/smilebrands/communication/data/dao/impl/PotentialSubscriberDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/main/java/com/smilebrands/communication/data/mappers/PotentialSubscriberMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-data/src/test/java/com/smilebrands/communication/data/PotentialSubscriberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-model/src/main/java/com/smilebrands/communication/model/Appointment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-model/src/main/java/com/smilebrands/communication/model/PotentialSubscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-model/src/main/java/com/smilebrands/communication/model/ReminderCallLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-model/src/main/java/com/smilebrands/communication/model/email/NotificationRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-model/src/main/java/com/smilebrands/communication/model/mongo/SchedulerControl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/app/PatientCommunicatorApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/app/ScheduleConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/app/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/AppointmentConfirmationScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/MobileSyncScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/RecallScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/ReminderCallScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/ScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/schedule/SmsSubscriberScheduleManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/service/AppointmentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/service/ReminderCallService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/service/SmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/service/SubscriberService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/util/SmsResponseManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/util/Utilities.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/util/VelocityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/web/controller/MessageRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/web/controller/SchedulerRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/java/com/smilebrands/communication/web/controller/WebViewRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/resources/production.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/app/view/main/CenterPanel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/app/view/main/Main.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/app/view/sms/SmsController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/app/view/sms/SmsMessageGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/app/view/sms/SmsSummaryPanel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/main/webapp/resources/css/communication.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/test/java/com/smilebrands/communication/PatientCommunicatorApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/communication-service/src/test/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PatientCommunicator/parent.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/java/com/smilebrands/gateway/dao/TransactionBatchDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/java/com/smilebrands/gateway/dao/TransactionBatchRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/java/com/smilebrands/gateway/dao/TransactionClaimRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/java/com/smilebrands/gateway/dao/TransactionDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/java/com/smilebrands/gateway/dao/TransactionDetailRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/resources/spring-jdbc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-access/src/main/resources/spring-jpa-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/sql/CREATE_TABLES.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/constants/BatchStatusType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/Request.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/TransactionBatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/TransactionClaim.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/TransactionClaimPK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/TransactionDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/jpa/TransactionDetailPK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/schema/AppointmentConfirmation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/schema/DateAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/schema/NonFinancialTransaction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-data-model/src/main/java/com/smilebrands/gateway/schema/ObjectFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/gateway-integration.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/audit/GatewayAuditScheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/queue/GatewayExceptionTopicListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/queue/GatewayPublishingMessageListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/service/BaseServiceProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/service/EnvironmentConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/service/QsiWebServiceProxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/service/TransactionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/java/com/smilebrands/gateway/util/Utilities.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/resources/environment.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/resources/spring-audit-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/resources/spring-integration-resources.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/main/resources/spring-jms-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/test/java/com/smilebrands/gateway/BaseServiceProxyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/test/java/com/smilebrands/gateway/FinanceTransactionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-integration/src/test/resources/spring-test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/java/com/smilebrands/gateway/web/GatewayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/resources/code-deploy/scripts/start_servers.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/resources/dev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/resources/jndi-reference.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/resources/spring-ws-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/webapp/WEB-INF/jetty-web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../QSITransactionGatewayProxy/gateway-web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RealTimeSurvey/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RealTimeSurvey/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apptracker/apptracker-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apptracker/apptracker-web/src/main/java/corp/bnd/at/servlets/login/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apptracker/apptracker-web/src/main/resources/appTracker-prod.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apptracker/apptracker-web/src/main/resources/yukon-apptracker.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apptracker/apptracker-web/src/main/webapp/WEB-INF/ctx/springMvcContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/sql/Pentaho - Build score card.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/main/java/com/smilebrands/callcentersupport/controllers/InboundCallController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/main/java/com/smilebrands/callcentersupport/service/CallService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/main/java/com/smilebrands/callcentersupport/service/CallServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/test/java/com/smilebrands/callcentersupport/MongoRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../callcentersupport/src/test/resources/test-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../era_consumer/src/main/java/com/smilebrands/claim/era/EraContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../era_consumer/src/main/resources/spring-data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/java/corp/sb/launchpad/controller/EmployeeSearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/java/corp/sb/launchpad/controller/FacilitySearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/java/corp/sb/launchpad/dao/FacilitySearchDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/java/corp/sb/launchpad/index/ConfluenceSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/java/corp/sb/launchpad/service/FacilityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/resources/springDaoContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/main/webapp/js/app/FindaModule.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/test/java/corp/sb/launchpad/DaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../launchpad/src/test/resources/springDatasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims-engine/liberty-claims-camel/src/main/java/com/smilebrands/edi/camel/routes/EdiAttachmentTransmitRoute.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims-engine/liberty-claims-camel/src/main/java/com/smilebrands/edi/core/claim/ClaimAttachmentManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims-engine/liberty-claims-camel/src/test/java/com.smilebrands/edi/core/claim/ClaimAttachmentManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims-engine/liberty-claims-camel/src/test/java/com.smilebrands/edi/service/DciClaimWSTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims-engine/liberty-claims-camel/src/test/resources/smilebrands-jdbc-hibernate.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-claims/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-common/src/main/resources/libertyprod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-data/src/main/resources/com/smilebrands/liberty/liberty-complete-dao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-data/src/test/java/com/smilebrands/liberty/dao/BaseDaoHarness.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-refresh/src/main/resources/com/smilebrands/liberty/liberty-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-refresh/src/main/resources/libertydev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-scheduler/src/main/java/com/smilebrands/liberty/scheduler/controller/SchedulerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-scheduler/src/main/resources/liberty-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-scheduler/src/main/resources/libertydev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-scheduler/src/main/resources/libertyprod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-service/src/main/java/com/smilebrands/liberty/claim/core/ClaimFileConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-service/src/main/java/com/smilebrands/liberty/util/service/AmazonS3Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-service/src/main/resources/com/smilebrands/liberty/liberty-services.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-service/src/main/resources/smilebrands-aws.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-touch/src/main/resources/liberty-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-touch/src/main/resources/libertydev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-touch/src/main/resources/libertyprod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/src/main/java/com/smilebrands/liberty/web/controller/AttachmentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/src/main/java/com/smilebrands/liberty/web/controller/PatientImageController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/src/main/resources/libertyprod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/src/main/webapp/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/liberty-web/src/main/webapp/app/controller/treatment/TreatmentController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liberty/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../officereportingsuite/src/main/java/corp/bnd/reporting/web/AgingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../officereportingsuite/src/main/webapp/js/widgets/OverTheCounterSummary.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/1.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/2.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/Table Creation.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/dashboard_procedures/SP_BUILD_DB_ORTHO_VISITS.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/dashboard_procedures/SP_BUILD_DB_PATIENT_VISITS.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/sql/test1.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/cache/CacheableManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/AppointmentDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/BudgetDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/RevenueCollectionDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/TaxonomyRevenueDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/WorkDaysDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/mapper/AppointmentRowMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/dao/mapper/RevenueRowMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/document/ValidateCriterion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/document/WeeklyVisitSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/ProviderFeedback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/ProviderFeedbackActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/ServiceProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/schedule/Appointment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/schedule/AppointmentReminder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/jpa/schedule/AppointmentStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/AppointmentVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/AppointmentVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Business.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Collection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ConsolidatedCollection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ConsolidatedRevenue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/FacilityOpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Metric.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/OpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/OrthoOpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/OrthoRevenue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/PatientVolume.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/PlanType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ProviderDays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/ProviderOpsDashEntry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/Revenue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/SearchCriterion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/model/vo/StaffingModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/DataCacheDocumentRepositoryCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/ValidateCriterionDocumentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/ValidateCriterionDocumentRepositoryCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/ValidationCriterionDocumentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/impl/DataCacheDocumentRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/impl/ValidateCriterionDocumentRepositoryCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/document/impl/ValidateCriterionDocumentRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/helper/NotificationHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jdbc/OpsDashboardRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jdbc/impl/MetricRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jdbc/impl/OpsDashboardRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jpa/AppointmentCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jpa/AppointmentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jpa/ProviderFeedbackActivityRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/jpa/impl/AppointmentRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/repo/mongo/impl/MongoRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/util/ClazzUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/util/DateTimeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/util/NumberUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/util/SBILogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/java/com/smilebrands/util/VelocityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/mongo-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-entity-manager.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-hazelcast-cache.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-jdbc-metrics-queries.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-jdbc-ops-dash-queries.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-jdbc-queries.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/spring-persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/velocity/daily-report-email.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/velocity/data-cache-validation.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/velocity/due-feedback-activities-email.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/main/resources/velocity/weekly-visit-summary-email.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/AppointmentTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/CacheTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/MetricsDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/OpsDashboardDaosTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/ProviderFeedbackTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/java/com/smilebrands/UserPreferenceRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/resources/datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/resources/mongo-datasource-test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/resources/mongo.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/src/test/resources/ops-datasource.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-data/test2.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/converter/BaseJsonConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/scheduler/FeedbackActivitiesScheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/AbstractBaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/FeedbackController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/MetricsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/OpsDashController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/java/com/smilebrands/operations/web/controller/ScheduleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/resources/dev-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/resources/jndi-references.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/resources/prod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/WEB-INF/ctx/spring-mvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/WEB-INF/views/index-prod.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/WEB-INF/views/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/DashboardController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/FeedbackController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/MobileDashboardController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/OverrideController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/ScheduleController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/controller/UserPreferenceController.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/ProviderFeedback.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/Appointment.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/AppointmentVO.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/CalendarMappings.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/CalendarModel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/EventMapping.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/EventMappings.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/calendar/EventModel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/opsdashboard/OpsDashboardRecord.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/opsdashboard/OrthoDashboardRecord.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/model/opsprovider/ProviderOpsDashEntry.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/override/Tag.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/store/calendar/MemoryCalendarStore.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/store/calendar/MemoryEventStore.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/store/opsprovider/ProviderOpsDashEntry.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/CalendarDate.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/ColorUtility.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/Config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/FacilityUtils.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/GridExcelExport.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/MetricUtils.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/TemplateFactory.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/Utilities.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/calendar/Calendars.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/calendar/Date.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/calendar/Events.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/calendar/Utilities.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/util/calendar/WeekEventRenderer.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/Header.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/dashboard/DashboardMobile.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/dashboard/MobileDashboard.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/dashboard/TierOne.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/feedback/FollowUpActivityField.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/feedback/ProviderFeedbackWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/ColumnFilterWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/DashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/DateRangeSelectionWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/OpsDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/OrthoDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/gridview/ProviderOpsDashboardGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/CalendarPanel.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/CalendarView.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/ScheduleDashboard.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/dd/DayDragZone.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/dd/DayDropZone.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/dd/DragZone.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/dd/DropZone.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/dd/StatusProxy.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/AdvanceFilterWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/CalendarFilterWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/EventDetails.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/EventWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/SummaryWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/field/CalendarCombo.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/field/DateRange.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/field/FacilityCombo.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/field/ReminderCombo.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/form/field/StatusCombo.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/template/BoxLayout.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/template/DayBody.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/template/DayHeader.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/template/Month.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/AbstractCalendar.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/Day.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/DayBody.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/DayHeader.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/Month.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/MonthDayDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/schedule/view/Week.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/widgets/DashboardGridContextMenu.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/widgets/MobileCalendar.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/app/view/widgets/ViewSelector.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/bootstrap.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/ext-5.1.0/build/ext-all-debug.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/ext-5.1.0/build/ext-all.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/ant-layout.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/calendar.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/colors.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/container.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/fonts.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/css/theme.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/data/areas-of-focus.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/data/metric-definitions.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/dashboard-web/src/main/webapp/resources/data/mobile-dashboard-tile.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../operations_dashboard/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/java/com/smilebrands/patient/search/dao/EraClaimDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/java/com/smilebrands/patient/search/service/AmazonS3Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/java/com/smilebrands/patient/search/service/NotificationHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/java/com/smilebrands/patient/search/web/controller/StreamContentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/resources/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/resources/yukon-ps.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/main/webapp/scripts/ImagesWindow.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../patientsearch/src/test/java/com/smilebrands/patientsearch/service/AmazonS3Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../publicrestservices/src/main/resources/mappingServiceContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../recall_patient/RecallPatient.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../recall_patient/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../recall_patient/src/main/webapp/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../securitymanagercomponent/src/main/java/com/smilebrands/security/service/SecurityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../securitymanagercomponent/src/main/java/com/smilebrands/security/web/filter/SecurityFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/java/corp/bnd/providers/mgmt/dao/ProviderProductivityDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/java/corp/bnd/providers/mgmt/model/ProviderVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/java/corp/bnd/providers/mgmt/service/ProviderProductivityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/java/corp/bnd/providers/mgmt/web/controller/ProviderCompProductivityController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/resources/applicationContext-jdbc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/resources/yukon-providers.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/webapp/scripts/Application.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/webapp/scripts/grid/ProviderCompensationSummaryGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../serviceprovidermanagement/src/main/webapp/scripts/grid/ProviderDetailGrid.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-data/src/main/java/com/smilebrands/liberty/finance/dao/impl/GuarantorSearchRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-data/src/main/resources/com/smilebrands/liberty/liberty-finance-jdbc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-data/src/main/resources/com/smilebrands/liberty/liberty-persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-service/src/main/java/com/smilebrands/liberty/finance/service/impl/FinanceApplicationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-service/src/main/java/com/smilebrands/liberty/finance/service/impl/FinanceAttachmentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-service/src/main/java/com/smilebrands/liberty/finance/service/impl/GuarantorSearchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-web/src/main/java/com/smilebrands/liberty/finance/controller/FinanceFileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-web/src/main/resources/libertyprod-env.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../smilebrandsfinance/finance-web/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
+
